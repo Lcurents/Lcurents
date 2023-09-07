@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laurentius Dika Andreano Vega</h1>
 <h3 align="center">A passionate frontend developer & Mobile developer</h3>
-<img src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
+<img src="[https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed](https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47z9p43wrw5paimc1tsw5rbs8jzsnvxr01z73hgac2&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
 - 🔭 I’m currently study on **UKMC**
 
 - 🌱 I’m currently learning **Javascript,Java,Kotlin,etc.**
