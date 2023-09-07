@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laurentius Dika Andreano Vega</h1>
 <h3 align="center">A passionate frontend developer & Mobile developer</h3>
-<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
+<img src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
 - 🔭 I’m currently study on **UKMC**
 
 - 🌱 I’m currently learning **Javascript,Java,Kotlin,etc.**
