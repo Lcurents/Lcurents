@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://www.laurentiusdika.site/images/dika.webp" width="100" height="150" alt="Profile Picture" style="border-radius: 50%; border: 3px solid #0969da;"/>
+  <img src="https://www.laurentiusdika.site/images/dika.webp" width="150" height="150" alt="Profile Picture" style="border-radius: 50%;"/>
   
   <h1>Hi 👋, I'm Laurentius Dika Andreano Vega</h1>
-  <h3>Full-Stack Developer | Mobile & Web Specialist</h3>
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+%26+Web+Specialist;2%2B+Years+Freelance+Experience;Building+Scalable+Applications" alt="Typing SVG" /></a>
   
   <p>
     💼 Actively seeking <strong>Full-Stack Developer positions</strong><br>
@@ -21,6 +22,25 @@
 I'm a passionate **Full-Stack Developer** with a strong focus on building scalable, user-centric applications. With **2+ years of freelance experience**, I've successfully delivered projects for UMKM businesses and enterprise-level companies. My expertise spans across modern web and mobile technologies, with a deep commitment to clean code and best practices.
 
 Currently, I'm **actively looking for opportunities** as a Full-Stack Developer where I can contribute my skills and continue growing professionally.
+
+---
+
+## 📚 Currently Learning
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js"/>
+      <br><strong>Next.js</strong>
+      <br><sub>Advanced patterns & optimization</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="60" height="60" alt="Unity AI"/>
+      <br><strong>Unity AI Systems</strong>
+      <br><sub>Goal Oriented Action Planning (GOAP) + Behavior Tree</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
