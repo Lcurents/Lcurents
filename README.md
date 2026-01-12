@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://www.laurentiusdika.site/images/dika.webp" width="150" height="150" alt="Profile Picture" style="border-radius: 50%;"/>
-  
   <h1>Hi 👋, I'm Laurentius Dika Andreano Vega</h1>
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+%26+Web+Specialist;2%2B+Years+Freelance+Experience;Building+Scalable+Applications" alt="Typing SVG" /></a>
