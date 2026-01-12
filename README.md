@@ -24,7 +24,7 @@ Currently, I'm **actively looking for opportunities** as a Full-Stack Developer 
 ---
 
 ## 📚 Currently Learning
-
+<div align="center">
 <table>
   <tr>
     <td align="center" width="50%">
@@ -39,6 +39,7 @@ Currently, I'm **actively looking for opportunities** as a Full-Stack Developer 
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -103,27 +104,7 @@ Currently, I'm **actively looking for opportunities** as a Full-Stack Developer 
 ---
 
 ## 🔗 Connect With Me
-
-<div align="center">
-  <a href="https://id.linkedin.com/in/laurentiusdika" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:laurentiusdika28@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/lcurents" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://laurentiusdika.site" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Portfolio" height="40" />
-  </a>
-</div>
-
-<br/>
-
+---
 <div align="center">
   <strong>📧 Email:</strong> laurentiusdika28@gmail.com<br/>
   <strong>🌐 Portfolio:</strong> <a href="https://laurentiusdika.site">laurentiusdika.site</a><br/>
