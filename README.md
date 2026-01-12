@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.laurentiusdika.site/images/dika.webp" width="150" height="150" alt="Profile Picture" style="border-radius: 50%; border: 3px solid #0969da;"/>
+  <img src="https://www.laurentiusdika.site/images/dika.webp" width="100" height="150" alt="Profile Picture" style="border-radius: 50%; border: 3px solid #0969da;"/>
   
   <h1>Hi 👋, I'm Laurentius Dika Andreano Vega</h1>
   <h3>Full-Stack Developer | Mobile & Web Specialist</h3>
@@ -76,14 +76,10 @@ Currently, I'm **actively looking for opportunities** as a Full-Stack Developer 
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lcurents&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lcurents&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophy" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lcurents&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
