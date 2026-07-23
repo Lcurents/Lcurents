@@ -4,10 +4,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+%26+Web+Specialist;2%2B+Years+Freelance+Experience;Building+Scalable+Applications" alt="Typing SVG" /></a>
   
   <p>
-    💼 Actively seeking <strong>Full-Stack Developer positions</strong><br>
-    🚀 2 years of freelance experience | 4+ completed projects<br>
-    🎓 Currently studying at <strong>UKMC</strong><br>
-    🌐 Portfolio: <a href="https://laurentiusdika.site" target="_blank">laurentiusdika.site</a>
+    Actively seeking <strong>Full-Stack Developer positions</strong><br>
+    2 years of freelance experience | 4+ completed projects<br>
+    Currently studying at <strong>UKMC</strong><br>
+    Portfolio: <a href="https://laurentiusdika.site" target="_blank">laurentiusdika.site</a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=lcurents&color=blue&style=flat-square" alt="Profile Views" />
@@ -23,7 +23,7 @@ Currently, I'm **actively looking for opportunities** as a Full-Stack Developer 
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 <div align="center">
 <table>
   <tr>
@@ -43,33 +43,33 @@ Currently, I'm **actively looking for opportunities** as a Full-Stack Developer 
 
 ---
 
-## 🏆 Featured Project
+## Featured Project
 
 ### SynClass - Learning Management System
 **Web Service modern untuk sistem informasi akademik**
 
-- 🏗️ **Architecture**: RESTful API dengan multi-platform support (Web & Mobile)
-- 🔐 **Security**: JWT Authentication & Row Level Security (RLS)
-- 👥 **Collaboration**: Built with team expertise in full-stack development
-- 📱 **Platforms**: Web & Mobile clients support
+- **Architecture**: RESTful API dengan multi-platform support (Web & Mobile)
+- **Security**: JWT Authentication & Row Level Security (RLS)
+- **Collaboration**: Built with team expertise in full-stack development
+- **Platforms**: Web & Mobile clients support
 
 **Repository**: [github.com/JeryCevin/SynClass](https://github.com/JeryCevin/SynClass)
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### Freelance Developer (2022 - Present)
 **Self-Employed**
 
-- ✅ Completed **4 significant projects** (3 UMKM, 1 Enterprise-level)
-- 📱 Deployed mobile app **"Rasaku"** on Google Play Store
-- 🔧 Full-stack development: Backend API, Frontend Web, Mobile apps
-- 💡 Tech Stack: React, Next.js, Flutter, Node.js, Firebase, PostgreSQL
+- Completed **4 significant projects** (3 UMKM, 1 Enterprise-level)
+- Deployed mobile app **"Rasaku"** on Google Play Store
+- Full-stack development: Backend API, Frontend Web, Mobile apps
+- Tech Stack: React, Next.js, Flutter, Node.js, Firebase, PostgreSQL
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <a href="https://react.dev" target="_blank" rel="noreferrer">
@@ -95,7 +95,7 @@ Currently, I'm **actively looking for opportunities** as a Full-Stack Developer 
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lcurents&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
@@ -103,12 +103,12 @@ Currently, I'm **actively looking for opportunities** as a Full-Stack Developer 
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 ---
 <div align="center">
-  <strong>📧 Email:</strong> laurentiusdika28@gmail.com<br/>
-  <strong>🌐 Portfolio:</strong> <a href="https://laurentiusdika.site">laurentiusdika.site</a><br/>
-  <strong>🔗 LinkedIn:</strong> <a href="https://id.linkedin.com/in/laurentiusdika">Laurentius Dika</a>
+  <strong>Email:</strong> laurentiusdika28@gmail.com<br/>
+  <strong>Portfolio:</strong> <a href="https://laurentiusdika.site">laurentiusdika.site</a><br/>
+  <strong>LinkedIn:</strong> <a href="https://id.linkedin.com/in/laurentiusdika">Laurentius Dika</a>
 </div>
 
 ---
@@ -116,6 +116,6 @@ Currently, I'm **actively looking for opportunities** as a Full-Stack Developer 
 <div align="center">
   <p>
     <em>Always eager to learn, collaborate, and build amazing things together!</em><br/>
-    ⭐ Feel free to reach out if you have exciting opportunities or want to work together!
+    Feel free to reach out if you have exciting opportunities or want to work together!
   </p>
 </div>
