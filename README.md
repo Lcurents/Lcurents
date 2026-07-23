@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a passionate **Full-Stack Developer** with a strong focus on building scalable, user-centric applications. With **2+ years of freelance experience**, I've successfully delivered projects for UMKM businesses and enterprise-level companies. My expertise spans across modern web and mobile technologies, with a deep commitment to clean code and best practices.
 
